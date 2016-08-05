@@ -1,0 +1,36 @@
+_repo: The-Historical-Nights-Entertainment--Second-Series_7949
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction, English'
+- !lcsh 'Europe -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: 'The absolution: Affonso Henriques, first king of Portugal -- The
+  false Demetrius: Boris Godunov and the pretended son of Ivan the Terrible -- The
+  hermosa fembra: an episode of the Inquisition in Seville -- The pastry-cook of Madrigal:
+  the story of the false Sebastian of Portugal -- The end of the "vert galant": the
+  assassination of Henry IV -- The barren wooing: the murder of Amy Robsart -- Sir
+  Judas: the betrayal of Sir Walter Raleigh -- His Insolence of Buckingham: George
+  Villiers'' courtship of Anne of Austria -- The path of exile: the fall of Lord Clarendon
+  -- The tragedy of Herrenhausen: Count Philip Königsmark and the Princess Sophia
+  Dorothea -- The tyrannicide: Charlotte Corday and Jean Paul Marat.'
+title: 'The Historical Nights'' Entertainment: Second Series'
+url: http://www.gutenberg.org/ebooks/7949
